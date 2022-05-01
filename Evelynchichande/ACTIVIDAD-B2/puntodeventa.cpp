@@ -3,7 +3,7 @@ using namespace std;
 int main ()
 {
 int c=0, P;
-float A=0, x, Tb, Piva, Pdsc, iva=0.12, desc=0.30, vt;
+float A=0, x, Tb, Piva, Pdsc, iva=0.12, desc=0.10, vt;
 cout<<"Ingrese la cantidad de productos: ";
 cin>>P;
 do{
