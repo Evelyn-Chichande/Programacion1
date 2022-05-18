@@ -2,8 +2,8 @@
 //==>Nombre del programa: cuentamoneda
 //==>Autor: CHICHANDE MARQUEZ EVELYN DAYANA
 //==> Archivo: CHICHANDEMARQUEZEVELYNDAYANA-cuentamoneda.cpp
-//==>Fecha de elaboración: 2022-04-01
-//==>Fecha ultima actualización: 2022-05-12
+//==>Fecha de elaboración: 2022-04-30
+//==>Fecha ultima actualización: 2022-05-17
 //==================================================
 #include<iostream>
 using namespace std;
@@ -27,13 +27,16 @@ int main()
 		CHE_a2=CHE_a2+CHE_x;
 	}
 	}while(CHE_c<CHE_n);
-//==================================================
-//==>Nombre del programa: cuentamoneda
-//==>Autor: CHICHANDE MARQUEZ EVELYN DAYANA
-//==> Archivo: CHICHANDEMARQUEZEVELYNDAYANA-cuentamoneda.cpp
-//==>Fecha de elaboración: 2022-04-01
-//==>Fecha ultima actualización: 2022-05-12
-//==================================================
+        
+	
+	cout<<"//=====Nombre del programa: cuenta moneda  "<<endl;
+        cout<<"//=====Archivo: CHICHANDEMARQUEZEVELYN-cuentamoneda.cpp"<<endl;
+        cout<<"//=====Autor: CHICHANDE MARQUEZ EVELYN "<<endl;
+        cout<<"//=====Fecha de elaboración: 30-04-2022"<<endl;
+        cout<<"//=====Fecha de ultima actualización: 17-05-2022"<<endl;
+	
+	
+	
 	
 	cout<<"El total de monedas fue : "<<endl;
 	cout<<"Cantidad de monedas ingresadas : "<<CHE_c<<endl;
