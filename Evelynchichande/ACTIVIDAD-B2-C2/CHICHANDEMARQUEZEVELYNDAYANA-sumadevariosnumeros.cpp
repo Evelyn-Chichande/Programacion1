@@ -23,11 +23,19 @@ int main()
  CHE_s=CHE_s+CHE_x;
        } while(CHE_c<CHE_n);
 
+
+
+cout<<endl<<"//====================================================================="<<endl;
         cout<<"//=====Nombre del programa: suma de varios números "<<endl;
         cout<<"//=====Archivo: CHICHANDEMARQUEZEVELYNDAYANA-edad.cpp"<<endl;
         cout<<"//=====Autor: CHICHANDE MARQUEZ EVELYN "<<endl;
         cout<<"//=====Fecha de elaboración: 30-04-2022"<<endl;
         cout<<"//=====Fecha de ultima actualización: 17-05-2022"<<endl;
+cout<<"//====================================================================="<<endl;
+
+
+
+
 
             cout<<"Ingrese un número para sumarlo: "<< CHE_s<<endl;
         

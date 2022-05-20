@@ -31,11 +31,15 @@ int main ()
 	}
 	CHE_A=CHE_AA-CHE_AN;
 
+
+
+cout<<endl<<"//====================================================================="<<endl;
         cout<<"//=====Nombre del programa: edad "<<endl;
         cout<<"//=====Archivo: CHICHANDEMARQUEZEVELYNDAYANA-edad.cpp"<<endl;
         cout<<"//=====Autor: CHICHANDE MARQUEZ EVELYN "<<endl;
         cout<<"//=====Fecha de elaboración: 30-04-2022"<<endl;
         cout<<"//=====Fecha de ultima actualización: 17-05-2022"<<endl;
+cout<<"//====================================================================="<<endl;
 
 
 

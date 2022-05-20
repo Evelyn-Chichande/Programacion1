@@ -34,11 +34,15 @@ CHE_desc=CHE_Tb*CHE_Pdsc/100;
 CHE_vt=CHE_A+CHE_Piva-CHE_Pdsc;
 
 
+
+cout<<endl<<"//====================================================================="<<endl;
         cout<<"//=====Nombre del programa: punto de venta  "<<endl;
         cout<<"//=====Archivo: CHICHANDEMARQUEZEVELYNDAYANA-puntodeventa.cpp"<<endl;
         cout<<"//=====Autor: CHICHANDE MARQUEZ EVELYN "<<endl;
         cout<<"//=====Fecha de elaboración: 30-04-2022"<<endl;
         cout<<"//=====Fecha de ultima actualización: 17-05-2022"<<endl;
+cout<<"//====================================================================="<<endl;
+
 
 
 cout<<"El valor total es de: $"<<CHE_vt<<endl;
