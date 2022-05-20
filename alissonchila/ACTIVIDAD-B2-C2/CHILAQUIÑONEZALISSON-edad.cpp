@@ -2,8 +2,8 @@
 //==>Nombre del programa: edad
 //==>Autor: CHILA QUIÑONEZ ALISSON ELENA
 //==> Archivo: CHILAQUIÑONEZALISSON-edad.cpp
-//==>Fecha de elaboración: 2022-04-01
-//==>Fecha ultima actualización: 2022-05-12
+//==>Fecha de elaboración: 2022-04-30
+//==>Fecha ultima actualización: 2022-05-18
 //==================================================
 #include<iostream>
 using namespace std;
@@ -31,13 +31,16 @@ int main ()
 	QE_M=QE_MA-QE_MN;
 	}
 	QE_A=QE_AA-QE_AN;
-//==================================================
-//==>Nombre del programa: edad
-//==>Autor: CHILA QUIÑONEZ ALISSON ELENA
-//==> Archivo: CHILAQUIÑONEZALISSON-edad.cpp
-//==>Fecha de elaboración: 2022-04-01
-//==>Fecha ultima actualización: 2022-05-12
-//==================================================
+
+
+cout<<endl<<"//====================================================================="<<endl;
+        cout<<"//=====Nombre del programa: edad "<<endl;
+        cout<<"//=====Archivo: CHILAQUIÑONEZALISSON-edad.cpp"<<endl;
+        cout<<"//=====Autor: CHILA QUIÑONEZ ALISSON ELENA "<<endl;
+        cout<<"//=====Fecha de elaboración: 30-04-2022"<<endl;
+        cout<<"//=====Fecha de ultima actualización: 18-05-2022"<<endl;
+cout<<"//====================================================================="<<endl;
+
 
 	cout<<"Usted tiene "<<QE_A<<" años "<<QE_M<<" meses  y"<<QE_D<<" dias ";
 

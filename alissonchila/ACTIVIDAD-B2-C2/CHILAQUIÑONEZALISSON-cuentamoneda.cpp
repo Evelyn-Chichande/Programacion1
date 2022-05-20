@@ -2,8 +2,8 @@
 // ==>Nombre del programa:cuentamoneda
 // ==>Autor:Chila Quiñonez Alisson
 // ==>Archivo: CHILAQUIÑONEZALISSON-cuentamoneda.cpp
-// ==>Fecha de elaboración: 2022-04-01
-// ==>Fecha Última actualización: 2022-05-12
+// ==>Fecha de elaboración: 2022-04-30
+// ==>Fecha Última actualización: 2022-05-18
 // ================================ ==
 #include<iostream>
 using namespace std;
@@ -27,19 +27,22 @@ int main()
 		QE_a2=QE_a2+QE_x;
 	}
 	}while(QE_c<QE_n);
+
+cout<<endl<<"//====================================================================="<<endl;
+	cout<<"//=====Nombre del programa: cuenta moneda "<<endl;
+        cout<<"//=====Archivo: CHILAQUIÑONEZALISSON-cuentamoneda.cpp"<<endl;
+        cout<<"//=====Autor: CHILA QUIÑONEZ ALISSON"<<endl;
+        cout<<"//=====Fecha de elaboración: 30-04-2022"<<endl;
+        cout<<"//=====Fecha de ultima actualización: 18-05-2022"<<endl;
+cout<<"//====================================================================="<<endl;
+
+
 	cout<<"El total de monedas fue : "<<endl;
 	cout<<"Cantidad de monedas ingresadas : "<<QE_c<<endl;
 	cout<<"El total del dinero contado es de : "<<QE_a<<endl;
 	cout<<"Monedas ingresadas de 0.10 ctvos es de :"<<QE_c1<<endl;
 	cout<<"Cantidad total de monedas de 0.10 ctvos es de : "<<QE_a1<<endl;
 	cout<<"Monedas ingresadas de 0.25 ctvos es de : "<<QE_c2<<endl;
-	//=================================== ==
-	// ==>Nombre del programa: cuentamoneda
-	// ==>Autor: Chila Quiñonez Alisson
-	// ==>Archivo: CHILAQUIÑONEZALISSON-cuentamoneda.cpp
-	// ==> Fecha de elaboración: 2022-04-01
-	// ==>Fecha de Última actualización: 2022-05-12
-	// ================================= ==
 	cout<<"Cantidad total de monedas de 0.25 ctvos es de : "<<QE_a2<<endl;
 	return (0);
 }
