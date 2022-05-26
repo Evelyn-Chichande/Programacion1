@@ -6,8 +6,7 @@
 #include<stdlib.h>
 using namespace std;
 #include"ChichandeEvelyn.h"
-
-
+#include"ChilaAlisson.h"
 
 
 int main()
@@ -30,8 +29,8 @@ int main()
 					ChichandeEvelynmenu();			
 					break;
 				case 2:
-					cout<<"\n AQUI PUEDO REVISAR LOS TRABAJO DE  ";
-					
+					cout<<"\n AQUI PUEDO REVISAR LOS TRABAJO DE Chila Alisson  "<<endl;
+					ChilaAlissonmenu();
 					break;
 				case 3:
 					
